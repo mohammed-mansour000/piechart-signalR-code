@@ -1,0 +1,11 @@
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\ChartsWebApi.exe
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\appsettings.json
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\ChartsWebApi.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\ChartsWebApi.deps.json
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\ChartsWebApi.runtimeconfig.json
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\ChartsWebApi.pdb
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamzi\Desktop\.NET-Core\ChartsWebApi\ChartsWebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
